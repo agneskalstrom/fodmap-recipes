@@ -16,6 +16,19 @@
         ]
       },
       {
+        "subTitle": "Fyllning",
+        "subIngredients": [
+          "500 g quornfärs",
+          "Smör",
+          "3-4 tsk lökfri tacokrydda",
+          "1 dl vatten",
+          "2 dl laktosfri crème fraiche",
+          "2 askar cocktailtomater",
+          "2-3 dl riven ost",
+          "Smör"
+        ]
+      },
+      {
         "subTitle": "Salsa",
         "subIngredients": [
           "1 burk krossade tomater",
@@ -27,19 +40,6 @@
           "Salt och svartpeppar",
           "1 tsk vitlöksolja",
           "1 röd chili"
-        ]
-      },
-      {
-        "subTitle": "Fyllning",
-        "subIngredients": [
-          "500 g quornfärs",
-          "Smör",
-          "3-4 tsk lökfri tacokrydda",
-          "1 dl vatten",
-          "2 dl laktosfri crème fraiche",
-          "2 askar cocktailtomater",
-          "2-3 dl riven ost",
-          "Smör"
         ]
       },
       {
@@ -118,7 +118,7 @@
         ]
       },
       {
-        "subTitle": "Currygryta",
+        "subTitle": "Gryta",
         "subIngredients": [
           "1 röd paprika",
           "1 morot",

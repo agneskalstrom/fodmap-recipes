@@ -4,8 +4,6 @@ import Recipes from "./data/recipes.json";
 const Recipe = () => {
   const firstRecipe = Recipes[Math.floor(Math.random() * Recipes.length)];
   const [recipe, setRecipe] = useState(firstRecipe);
-  console.log(Recipes);
-
   let randomRecipe;
 
   function getRecipe() {
@@ -16,12 +14,11 @@ const Recipe = () => {
 
   return (
     <main>
-      <button onClick={getRecipe}>Nytt recept</button>
       <div className="recipe-display" key={recipe.id}>
         <h2>{recipe.title}</h2>
         <div className="info">
-          <p>{recipe.servings}</p>
-          <p>{recipe.cookingTime}</p>
+          <p>🍴 {recipe.servings}</p>
+          <p>🕑 {recipe.cookingTime}</p>
         </div>
         <h3>Ingredienser:</h3>
         {recipe.ingredients.map((ingredients) => {
@@ -36,13 +33,14 @@ const Recipe = () => {
             </div>
           );
         })}
-        <h3>Instruktioner:</h3>
+        <h3>Gör så här:</h3>
         <ul>
           {recipe.instructions.map((instruction) => (
-            <li>{instruction}</li>
+            <li className="instructions-list">{instruction}</li>
           ))}
         </ul>
       </div>
+      <button onClick={getRecipe}>Slumpa recept</button>
     </main>
   );
 };

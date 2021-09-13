@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+  
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+  
+body, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
+  
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    background: linear-gradient(45deg, rgba(255,95,109,1) 0%, rgba(255,195,113,1) 100%);
+    text-align: center;
+    padding: 2em;
+    color: #fff;
+    /*margin: 1em 1em 2em 1em;
+    border-radius: 1em;*/
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 2.5em;
+    line-height: 1.2;
+}
+
+button {
+    background-color: rgba(255,95,109,1);
+    border: 0;
+    border-radius: 1em;
+    padding: 1em 1.5em 1em;
+    color: #fff;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+button:hover {
+    background-color:  rgb(252, 68, 83);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    margin: 2em 1em 2em 1em;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 2em;
+    color: rgba(255,95,109,1);
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 1.4em;
+    margin-bottom: .5em;
+}
+
+h4 {
+    text-decoration: underline;
+    font-size: 1.1em;
+}
+
+ul {
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+.info {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    display: flex;
+    width: 100%;
+    gap: 1.5em;
+}
+
+.info p {
+    color: #6f6f6f;
+    font-size: .8em;
+}
+
+.instructions-list {
+    list-style-type: decimal;
+}
+
+li {
+    padding-bottom: .2em;
+}

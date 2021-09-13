@@ -1,91 +1,730 @@
 [
   {
     "id": 1,
-    "title": "Ugnsbakad rotselleri med champinjonkräm",
+    "title": "Tacopaj med quorn",
     "cookingTime": "90 min",
-    "servings": "4 pers",
+    "servings": "4 portioner",
     "ingredients": [
       {
-        "subTitle": "Bakad rotselleri",
+        "subTitle": "Pajdeg",
         "subIngredients": [
-          "1 medelstor rotselleri, ca 900 g", 
-          "50 gram smör"
+          "3 dl glutenfri mjölmix eller siktat dinkelmjöl", 
+          "1 krm salt",
+          "75 g smör",
+          "1 dl laktosfri kvarg",
+          "2 msk vatten"
         ]
       },
       {
-        "subTitle": "Champinjonkräm",
+        "subTitle": "Salsa",
         "subIngredients": [
-          "1 burk konserverade champinjoner à 250 g",
-          "2 dl gröna linser",
-          "4 msk crème fraiche",
-          "1 msk japansk soja",
-          "1 tsk citronsaft",
-          "1 msk smör",
-          "salt och svartpeppar"
+          "1 burk krossade tomater",
+          "4 soltorkade tomater",
+          "7 kvistar oregano",
+          "5 kvistar timjan",
+          "20 blad basilika",
+          "0,5 msk farinsocker",
+          "Salt och svartpeppar",
+          "1 tsk vitlöksolja",
+          "1 röd chili"
+        ]
+      },
+      {
+        "subTitle": "Fyllning",
+        "subIngredients": [
+          "500 g quornfärs",
+          "Smör",
+          "3-4 tsk lökfri tacokrydda",
+          "1 dl vatten",
+          "2 dl laktosfri crème fraiche",
+          "2 askar cocktailtomater",
+          "2-3 dl riven ost",
+          "Smör"
         ]
       },
       {
         "subTitle": "Tillbehör",
         "subIngredients": [
-          "70 g färsk babyspenat",
-          "1 citron",
-          "1 dl rostade pinjenötter",
-          "2 dl parmesan",
-          "bredbladig persilja"
+          "1 påse tortillachips"
         ]
       }
     ],
     "instructions": [
-      "Skrubba rotsellerin och skala bort det grövsta skalen eller allt skal om du föredrar det.",
-      "Dela rotsellerin på mitten och placera på en plåt med den skurna sidan neråt.",
-      "Fördela smöret med fingrarna eller hyvla tunt och lägg på rotsellerin. Rosta i ca 1,5 timme i 175 grader. Ös/pensla gärna på lite av det smälta smöret ett par gånger under tiden.",
-      "Häll av spadet från champinjonerna och stek dem i lite smör gärna i ca 10 minuter så de får lite stekyta. Salta och peppra under tiden. Droppa gärna lite lökolja på svampen.",
-      "Skölj av linserna. Mixa sedan linser, svampen och créme fraiche slätt. Smaka av med soja, vitlöksolja, citronsaft, salt och peppar.",
-      "Lägg en stor klick svampkräm i botten av en tallrik. Strö över spenatblad. Toppa med några skivor rotselleri, citron, pinjenötter, riven parmesan och lite bladpersilja."
+      "Blanda mjöl, salt och finfördelat smör till pajdegen med händerna eller i en matberedare. Tillsätt kvarg och vatten och blanda till en smidig deg. Låt vila i kylskåp ca 1 timme.",
+      "Sätt ugnen på 225 grader.",
+      "Tryck ut degen i en pajform och nagga med en gaffel. Förgrädda mitt i ugnen ca 10 minuter.",
+      "Häll de krossade tomaterna i en kastrull. Finhacka soltorkade tomater och örter och rör ner i kastrullen. Tillsätt farinsocker, salt, peppar, vitlöksolja och finhackad chili. Låt koka ihop på låg värme ca 20 minuter. Häll upp i en skål och låt svalna.",
+      "Bryn quornfärsen i en stekpanna med lite smör. Tillsätt tacokrydda och vatten. Låt puttra i 10–15 minuter. Rör ner crème fraiche och rör om ordentligt. Fyll pajskalet med quornfärsen. Halvera tomaterna och lägg dem ovanpå. Strö över osten och grädda pajen mitt i ugnen 20–30 minuter.",
+      "Servera med salsa och tortillachips."
     ]
   },
   {
     "id": 2,
-    "title": "Matig sallad",
-    "cookingTime": "30-40 min",
-    "servings": "4 pers",
+    "title": "Ratatouille med ris och stekt halloumi",
+    "cookingTime": "?",
+    "servings": "4 portioner",
     "ingredients": [
       {
         "subTitle": "Sallad",
         "subIngredients": [
-          "2-3 dl quinoa", 
-          "2-3 dl linser",
-          "500 g palsternacka",
-          "500 g morot",
-          "500 g rotselleri",
-          "1 paprika",
-          "0,5 aubergine eller squash",
-          "1 dl hackade kryddörter",
-          "2-3 salladslökar, gröna delen",
+          "1 stor zucchini", 
+          "1 palsternacka",
+          "1 röd paprika",
+          "1 grön paprika",
+          "1 purjolök",
+          "2 lagerblad",
+          "2 burkar hela tomater à 400 g",
+          "1 tsk torkad oregano",
+          "1 tsk torkad timjan",
+          "1 tsk torkad basilika",
+          "½ tsk torkad rosmarin",
+          "1 task torkad ramslök",
+          "150 g halloumi/grillost",
+          "½ citron",
+          "Olivolja",
           "Salt och peppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Skär zucchinin i ca 1 cm tjocka halvmånar. Skala och skär palsternackan i halvmånar. Kärna ur paprikorna och skär dem i grova strimlor. Skölj och strimla den gröna delen av purjolöken grovt.",
+      "Fräs grönsakerna med lagerblad och olja i en gryta. Häll på hela tomater, oregano, timjan, basilika, rosmarin och ramslök. Om det känns för torrt, tillsätt lite vatten. Rör om och låt puttra under lock på svag värme ca 40 minuter..",
+      "Skiva halloumin och stek den gyllenbrun i en torr stekpanna. Smaka av ratatouillen med citronsaft, salt och peppar. Servera med halloumi och ris."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Tofuwok med grön curry",
+    "cookingTime": "?",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "Currypasta",
+        "subIngredients": [
+          "5 salladslökar (gröna delen)",
+          "2 gröna chilifrukter",
+          "2 stjälkar citrongräs (ta bort yttre bladen och skiva resten)",
+          "15 cm ingefära (skalad)",
+          "1 msk fisksås"
+        ]
+      },
+      {
+        "subTitle": "Tofu",
+        "subIngredients": [
+          "400 g naturell tofu",
+          "2 msk rapsolja",
+          "Chiliolja eller chiliflakes",
+          "Salt"
+        ]
+      },
+      {
+        "subTitle": "Currygryta",
+        "subIngredients": [
+          "1 röd paprika",
+          "1 morot",
+          "100 g haricot verts",
+          "250 g pak choi",
+          "2 msk vitlöksolja",
+          "1 burk bambuskott à 230 g",
+          "1 dl edamamebönor",
+          "6 kaffirlimeblad",
+          "1 burk kokosmjölk à 400 ml",
+          "½ lime"
+        ]
+      }
+    ],
+    "instructions": [
+      "Mixa alla ingredienser till currypastan till en jämn pasta i en mixer eller med en stavmixer.",
+      "Skär tofun i mindre kuber. Hetta upp rapsolja och chiliolja eller chiliflakes i en stor stekpanna och stek tofubitarna gyllenbruna. Salta lite lätt och lägg över tofun på en tallrik.",
+      "Kärna ur paprikan och skala moroten, skiva dem tunt. Dela haricots verts på mitten och ta loss bladen på pak choi. Hetta upp oljan i en stor panna och fräs currypastan på medelvärme i någon minut. Tillsätt paprika, morot, haricots verts, pak choi, bambuskott, edamamebönor och kaffirlimeblad.",
+      "Rör ner kokosmjölk och tofu och låt sjuda ca 10–15 minuter. Smaka av med limesaft. Servera grytan med risnudlar."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Aubergine- och linscurry",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "2 salladslökar (gröna delen)", 
+          "1 stor aubergine",
+          "2 morötter",
+          "2 tsk curry",
+          "2 tsk malen ingefära",
+          "2 tsk gurkmeja",
+          "1 burk kokosmjölk à 400 ml",
+          "1 burk krossade tomater à 500 g",
+          "1-2 msk lökfri grönsaksfont",
+          "1 dl vatten",
+          "2 dl gröna linser (på tetra)",
+          "Olivolja",
+          "Salt",
+          "Cayennepeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Finhacka salladslöken och skär auberginerna i små tärningar. Skala och tärna morötterna. Fräs aubergine, morötter och salladslök i olja ca 5 minuter. Rör om då och då.",
+      "Pudra över curry, ingefära och gurkmeja. Tillsätt kokosmjölk, krossade tomater, fond och vatten. Låt småputtra ca 10 minuter. Skölj linserna och tillsätt dem till grytan. Smaka av med salt och cayennepeppar.",
+      "Servera currygrytan med ris, mathavre eller quinoa."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Butter curry med kikärtor",
+    "cookingTime": "?",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "3 salladslökar (gröna delen)", 
+          "6 cm ingefära",
+          "1 tsk torkad ramslök",
+          "1 tsk vitlöksolja",
+          "2 msk vatten",
+          "1 tsk malen spiskummin",
+          "0,5 tsk malen kanel",
+          "0,5 tsk malen kardemumma",
+          "0,5 tsk cayennepeppar",
+          "0,5 tsk gurkmeja",
+          "3 msk jordnötssmör",
+          "4 dl kokosmjölk",
+          "1,5 dl vatten",
+          "2 msk lökfri grönsaksfond",
+          "1 röd paprika",
+          "2 morötter",
+          "½ zucchini",
+          "1 förp kikärtor à 380 g",
+          "1 tsk salt",
+          "1 tsk socker",
+          "1 lime",
+          "Chiliflakes",
+          "Rapsolja"
+        ]
+      }
+    ],
+    "instructions": [
+      "Mixa salladslök, ingefära, ramslök, 1 tesked vitlöksolja och vatten till en slät puré. Fräs spiskummin, koriander, kanel, kardemumma och cayennepeppar i rapsolja ca 30 sekunder i en gryta eller traktörpanna. Tillsätt lökpurén och rör om. Blanda i gurkmeja och fräs tills blandningen är väl rostad, ca 3 minuter. Rör om då och då.",
+      "Tillsätt jordnötssmör och häll på kokosmjölk, vatten och fond. Rör om tills allt löst upp sig.",
+      "Kärna ur och tärna paprikan, skala och slanta morötterna. Skär zucchinin i halvmånar. Tillsätt grönsaker, avrunna kikärtor, salt och socker. Rör om, täck med lock och låt puttra i 5 minuter. Sänk värmen och koka ytterligare ca 5 minuter.",
+      "Blanda ner limesaft och smaka av med chiliflakes. Fortsätt sjuda ytterligare 3–4 minuter tills curryn tjocknar.",
+      "Ät som den är eller servera med ris eller bröd."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Citronrisotto",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "0,5 dl olivolja", 
+          "½ citron",
+          "1 liter vatten",
+          "2 msk lökfri grönsaksfond",
+          "2 salladslökar (gröna delen)",
+          "Olivolja",
+          "4 dl arborioris",
+          "2 dl torrt vitt vin",
+          "1-2 dl riven parmesan",
+          "20 g rucola",
+          "Salt och svartpeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Blanda olivolja och rivet skal av citron i en liten skål och låt dra medan du gör risotton.",
+      "Värm vatten och fond i en kastrull. Fräs salladslöken mjuk i olivolja i en tjockbottnad kastrull på låg värme utan att den tar färg.",
+      "Tillsätt riset, höj värmen och låt fräsa någon minut. Häll på vinet och låt koka tills det ångat bort. Rör om hela tiden.Tillsätt den varma buljongen, lite i taget. Börja med 3–4 dl och ta sedan 1 dl i taget efter hand som riset suger åt sig buljongen. Rörom ofta och sänk värmen. Risotton ska bli lös med en kärna i riset som ger visst tuggmotstånd. Det tar ca 20 minuter.",
+      "Ta bort kastrullen från värmen och rör ner parmesanosten. Smaksätt med salt och peppar. Fördela på tallrikar, skeda över citronolivoljan och garnera med rucola och parmesan."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Krämig brysselkålspasta",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "400 g glutenfri pasta",
+          "2 salladslökar (gröna delen)",
+          "250 g brysselkål",
+          "1 tsk torkad ramslök",
+          "2 msk olivolja",
+          "3 dl laktosfri grädde eller crème fraiche",
+          "4 msk pinjenötter",
+          "1 dl riven parmesan",
+          "1 citron",
+          "Salt och peppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka pastan enligt anvisning på paketet. Finhacka salladslöken. Tina brysselkålen och halvera dem. Fräs salladslök och ramslök i olivolja några minuter i en stekpanna. Tillsätt brysselkålen och fräs ca 3 minuter. Häll på grädde eller crème fraiche och låt koka ihop.",
+      "Rosta pinjenötterna i en torr stekpanna.",
+      "Häll av vattnet från pastan. Blanda pastan med brysselkål- blandningen, riven parmesan, citronskal och citronsaft. Smaka av med salt och svartpeppar.",
+      "Garnera med pinjenötter, citronskal och hyvlad parmesan."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Quornfärssås med glutenfri spaghetti",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "4 port glutenfri spaghetti",
+          "3 salladslökar (gröna delen)",
+          "1 röd chili",
+          "500 g quornfärs",
+          "2 msk tomatpuré",
+          "500 g krossade tomater",
+          "1 tsk oregano",
+          "1 tsk rosmarin",
+          "1 tsk basilika",
+          "1 tsk timjan",
+          "1 tsk ramslök",
+          "1 msk lökfri grönsaksfond",
+          "2 dl laktosfri matlagningsgrädde",
+          "Riven parmesan",
+          "Smör",
+          "Salt och peppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka pastan enligt anvisning.",
+      "Finhacka salladslök och chili. Smält lite smör i en panna och fräs salladslök och chili lite snabbt. Lägg i quornfärsen och stek under omrörning så att den blir smulig.",
+      "Rör ner tomatpurén och fräs någon minut. Tillsätt krossade tomater, salt, peppar, örter och grönsaksfond. Rör om och låt puttra ca 10 minuter. Tillsätt eventuellt 1 dl pastavatten.",
+      "Tillsätt grädden och smaka eventuellt av med mer kryddor. Låt puttra 6–8 minuter.",
+      "Servera med riven parmesan."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Pasta med hett salviasmör",
+    "cookingTime": "20 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "4 port glutenfri pasta, t.ex. linguine",
+          "2 salladslökar (gröna delen)",
+          "1 röd chili",
+          "100 g smör",
+          "20 blad salvia",
+          "Salt och peppar",
+          "Parmesan"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka pastan enligt anvisning på paketet. Finhacka chili och salladslök. Bryn smöret i en kastrull tills det blir brunt och har en nötaktig doft. Ta kastrullen från värmen och lägg i salvia, chili och salladslök. Låt dra ca 5 minuter.",
+      "Lägg upp pastan på ett fat och ringla över salviasmöret. Salta, mal över rikligt med svartpeppar och riven parmesanost."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Vegetarisk lasagne",
+    "cookingTime": "45 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "450 g fryst spenat",
+          "1 klyfta vitlök",
+          "2 salladslökar (gröna delen)",
+          "2 morötter",
+          "250 g ricottaost",
+          "250 g keso",
+          "100 g fetaost",
+          "2 dl laktosfri mjölk",
+          "3 krm riven muskot",
+          "12 glutenfria lasagneplattor",
+          "Smakrik riven ost",
+          "Olivolja",
+          "Salt och svartpeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Sätt ugnen på 200 grader. Tina spenaten. Skala och dela vitlöksklyftan i bitar. Hetta upp lite olivolja i en stor kastrull och stek vitlöken tills den är brun. Plocka upp bitarna. Skiva salladslöken och fräs den i samma panna några minuter. Tillsätt tinad spenat och fräs ytterligare några minuter. Ta bort kastrullen från värmen och låt svalna.",
+      "Riv morötterna grovt. Blanda spenaten med morötter, ricottaost, keso, smulad fetaost, mjölk, muskot, salt och peppar.",
+      "Lägg lasagneplattor i botten på en ugnssäker form. Varva sedan fyllningen med lasagneplattor och strö riven ost på toppen. Tillaga i ugnen ca 30 minuter."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Linssoppa med ajvar",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "3 st salladslökar (gröna delen)",
+          "200 g morötter",
+          "190 g röda linser (på tetra)",
+          "1 citron",
+          "400 g krossade tomater",
+          "2 msk ajvar",
+          "7 dl vatten",
+          "1 tsk timjan",
+          "2,5 msk lökfri grönsaksfond",
+          "2 tsk socker",
+          "2 krm cayennepeppar (alt tabasco eller chili)",
+          "1 tsk spiskummin",
+          "Vitlöksolja",
+          "Olja"
+        ]
+      }
+    ],
+    "instructions": [
+      "Finhacka salladslöken. Skala morötterna och skär i bitar. Hetta upp olja i en tjockbottnad kastrull. Bryn salladslök och morötter tills de är mjuka.",
+      "Späd med vatten. Tillsätt avsköljda och avrunna linser, konserverade tomater, fond, socker, ajvar, vitlöksolja, timjan och spiskummin. Låt sjuda under lock tills grönsakerna och linserna är mjuka, cirka 10–15 minuter.",
+      "Mixa soppan slät och smaka av med citron, peppar och gärna cayennepeppar, tabasco eller chili. Justera mängden vätska/kryddor om det behövs."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Palak Paneer med tofu",
+    "cookingTime": "50 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "4 salladslökar (gröna delen)",
+          "5 cm ingefära",
+          "1 msk senapsfrön",
+          "1,5 msk garam masala-pulver",
+          "2 kardemummakapslar",
+          "1 msk mald spiskummin",
+          "2 msk torkad ramslök",
+          "2 tsk gurkmeja",
+          "2 tsk chilipulver",
+          "2 msk tomatpuré",
+          "3 tomater",
+          "500 g bladspenat",
+          "2-3 dl vatten",
+          "400 g tofu",
+          "1 dl laktosfri grädde",
+          "2 msk smör",
+          "Vitlöksolja",
+          "Rapslja",
+          "Salt och peppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Finhacka salladslöken och riv ingefäran. Fräs dem sedan snabbt i rapsolja i en gryta eller djup stekpanna, utan att brännas. Rör ner alla torra kryddor och tomatpurén i grytan. Rör runt och tillsätt lite vatten så att det inte torrsteker utan mer blir som en kryddpasta. Fräs i några minuter, så att kryddorna tar rejält med smak.",
+      "Skär tomaterna i halvor, ta bort kärnhusen och skär dem sedan i klyftor. Lägg ner tomaterna tillsammans med spenaten i grytan. Späd med 2-3 dl vatten till önskad konsistens och låt koka utan lock i ca 10 minuter.",
+      "Tärna och fritera tofun gyllene i rapsolja. Låt dem rinna av på hushållspapper när de är klara.",
+      "När grytan har kokat i ca 10 minuter, rör ner grädde, smör och vitlöksolja, låt det koka upp igen. Smaka av med finhackad ramslök, salt och peppar samt ev. mer garam masala."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Marinerad tofu med stekta nudlar",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "4 port risnudlar",
+          "400 g naturell tofu",
+          "4 msk matolja",
+          "4 msk soja",
+          "1 msk vitlöksolja",
+          "3 salladslökar (gröna delen)",
+          "4 pak choi",
+          "1 röd chili",
+          "Färsk ingefära",
+          "Sesamfrön"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka nudlarna efter anvisning på paketet. Häll av vattnet och ställ åt sidan.",
+      "Tärna tofun och stek den gyllene i 2 msk olja. Lägg i en skål och häll över soja och vitlöksolja.",
+      "Hacka salladslöken och dela pak choi i mindre bitar. Riv ingefäran fint och finhacka chilin.",
+      "Värm en stor stekpanna eller wok. Tillsätt 2 msk olja och chili. Fräs lite fort och tillsätt sedan pak choi, salladslök och böngroddar. Häll på tofu och all marinad. Rör runt hela tiden. Tillsätt sedan nudlarna, ingefära och sesamolja. Woka i 1 minut tills allt är varmt.",
+      "Servera med sesamfrön."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Halloumi stroganoff med ris",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "4 port ris",
+          "½ purjolök (gröna delen)",
+          "1 morot",
+          "250 g halloumi/grillost",
+          "2 msk tomatpuré",
+          "0,5 tsk vitlöksolja",
+          "1 burk krossade tomater",
+          "1 dl laktosfri grädde",
+          "1 pkt röda linser (på tetra)",
+          "½ citron",
+          "Olivolja",
+          "Tomatpuré",
+          "Senap"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka riset enligt anvisning på förpackningen. Skölj och finhacka purjolöken. Riv moroten och skär halloumin i mindre bitar. Stek halloumin gyllenbrun i torr panna och lägg åt sidan.",
+      "Fräs purjolök i olivolja. Rör ner tomatpuré och tillsätt sedan morötter och vitlöksolja. Stek tills morötterna mjuknat lite. Häll ner krossade tomater och grädde och koka upp. Blanda i linser, en klick senap och låt puttra ca 3 minuter.",
+      "Lägg i halloumi och smaka av med salt, peppar och pressad citron. Servera med riset."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Spaghetti med fetaost och oliver",
+    "cookingTime": "20 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "4 port glutenfri spaghetti eller tagliatelle",
+          "100 g soltorkade tomater",
+          "150 g fetaost",
+          "1 dl kalamataoliver",
+          "½ citron",
+          "Ruccola",
+          "Olivolja",
+          "Salt och peppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka spaghettin enligt anvisning på paketet.",
+      "Strimla tomaterna och smula fetaosten i mindre bitar. Vänd sedan ner alla ingredienser i den nykokta pastan. Smaksätt med salt och peppar.",
+      "Servera med ett gott bröd."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Tomat- och paprikasoppa med krispig fetaost",
+    "cookingTime": "45 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "Soppa",
+        "subIngredients": [
+          "2 röda paprikor",
+          "2 morötter",
+          "2 palsternackor",
+          "1 msk rapsolja",
+          "3 msk lökfri grönsaksfond",
+          "1 burk krossade tomater",
+          "1 msk vitlöksolja",
+          "2 tsk paprikapulver",
+          "Salt och peppar"
+        ]
+      },
+      {
+        "subTitle": "Fetaost",
+        "subIngredients": [
+          "1 paket fetaost",
+          "4 msk glutenfri panko",
+          "Olivolja"
+        ]
+      },
+      {
+        "subTitle": "Till servering",
+        "subIngredients": [
+          "Färsk basilika"
+        ]
+      }
+    ],
+    "instructions": [
+      "Sätt ugnen på 200 grader.",
+      "Skölj och strimla paprikan. Skala och slanta morot och palsternacka. Lägg grönsakerna på en ugnsplåt och ringla över olja. Salta och peppra. Rosta i ugnen ca 20-25 minuter, tills de är gyllene och mjuka. Rör om då och då.",
+      "Smula fetaosten grovt och droppa över lite olja och rulla smulorna i panko. Lägg fetaosten på en plåt med bakplåtspapper.",
+      "När grönsakerna är klara, lägg dem i en kastrull. Ställ in plåten med fetaost i ugnen i 8-10 min.",
+      "Häll hälften av vattnet, fond och krossade tomater i kastrullen med grönsaker. Mixa slätt med en stavmixer. Värm soppan på medelvärme, häll på resten av vattnet och smaksätt med vitlöksolja, paprikapulver, salt och peppar.",
+      "Strö över fetaosten och garnera med färsk basilika."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Gnocchi med tomat och mozzarella",
+    "cookingTime": "45 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "500 g glutenfri gnocchi",
+          "5 dl krossade tomater",
+          "2 pkt laktosfri mozzarella",
+          "2 tsk torkad ramslök",
+          "2 tsk oregano",
+          "1 tsk chilipulver/chiliflakes",
+          "Salt och peppar",
+          "Olivolja"
+        ]
+      },
+      {
+        "subTitle": "Till servering",
+        "subIngredients": [
+          "0,5 dl riven parmesan",
+          "Färsk basilika"
+        ]
+      }
+    ],
+    "instructions": [
+      "Sätt ugnen på 225 grader.",
+      "Häll de krossade tomaterna i en kastrull. Tillsätt kryddorna och smaka av med salt och peppar.",
+      "Lägg gnocchin i en oljad, ugnssäker form. Krydda med salt. Häll över tomatsåsen.",
+      "Bryt mozzarellan i bitar och fördela över tomatsåsen. Ställ in i mitten av ugnen ca 30 minuter, tills gratängen får fin färg.",
+      "Strö över parmesanosten och garnera med färsk basilika."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Tomatsoppa med mozarella",
+    "cookingTime": "50 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "1 salladslök (gröna delen)",
+          "1 msk vitlöksolja",
+          "2 tsk torkad basilika",
+          "2 tsk torkad oregano",
+          "2 tsk torkade franska örter",
+          "1 dl vitt vin (kan uteslutas)",
+          "2 förp krossade tomater à 400 g",
+          "2 msk lökfri grönsaksfond",
+          "3 dl vatten",
+          "1 msk strösocker",
+          "2,5 dl laktosfri matlagningsgrädde",
+          "125 g laktosfri mozzarella",
+          "Färsk basilika",
+          "Salt och svartpeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Hacka och fräs salladslöken i vitlöksoljan i en kastrull. Lägg i örtkryddorna och låt dem fräsa med en stund. Tillsätt ev vin, krossade tomater, kycklingfond, vatten och socker. Låt soppan småkoka i 20 minuter.",
+      "Mixa soppan slät med en stavmixer, tillsätt grädden och låt småkoka ytterligare 5–10 minuter. Smaka av med salt och peppar.",
+      "Garnera soppan med tärnad mozzarella och hackad basilikan."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Tomatris med halloumi",
+    "cookingTime": "40 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "½ purjolök (gröna delen)",
+          "2 msk vitlöksolja",
+          "4 port ris",
+          "500 g krossade tomater",
+          "½ kruka oregano",
+          "2 msk lökfri grönsaksfond",
+          "1 dl vatten",
+          "2 msk lökfri grönsaksfond",
+          "1 gul paprika",
+          "250 g halloumi/grillost",
+          "Salt och svartpeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Skala och finhacka purjolöken. Fräs i olja och tillsätt ris. Låt fräsa ca 1 minut.",
+      "Tillsätt krossade tomater, oregano och fond. Salta och peppra.",
+      "Låt koka ca 10 minuter eller tills riset är mjukt. Späd med vatten under tiden.",
+      "Strimla paprikan och blanda ner i tomatriset.",
+      "Skiva halloumin och stek tills gyllenbrun. Servera."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Vegetarisk ceasarsallad",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "Sallad",
+        "subIngredients": [
+          "4 quornfiléer",
+          "4 skivor glutenfritt bröd",
+          "1 huvud romansallat",
+          "70 g babyspenat",
+          "Salt och svartpeppar",
+          "Olja"
         ]
       },
       {
         "subTitle": "Dressing",
         "subIngredients": [
-          "2-3 msk balsamico",
-          "2 msk olivolja"
-        ]
-      },
-      {
-        "subTitle": "Tillbehör",
-        "subIngredients": [
-          "Fetaost",
-          "1 grillost/halloumi eller quornfiléer"
+          "1 ägg",
+          "0,5 dl riven parmesanost",
+          "1 msk vitvinsvinäger",
+          "1 tsk dijonsenap",
+          "1 dl olivolja",
+          "Salt och svartpeppar"
         ]
       }
     ],
     "instructions": [
-      "Sätt ugnen på 220 grader.",
-      "Skala och skär rotfrukterna i lagom munsbitar. Lägg på bakplåt, blanda med lite olivolja, salt och peppar och rosta i ugnen i ca 20 min.",
-      "Fräs strimlad paprika och aubergine/squash i stekpannan med lite olivolja.",
-      "Stek på grillost eller quornfiléer",
-      "Blanda alla ingredienserna till salladen och blanda ihop dressing + kryddor. Smula över fetaost."
+      "Börja med dressingen: Koka ägget 2–3 minuter. Skala det och lägg tillsammans med parmesan, vinäger och senap i en skål. Mixa dressingen slät med en stavmixer. Tillsätt oljan, först droppvis och därefter i en tunn stråle, och smaka av med salt och peppar.",
+      "Stek quornfiléerna i lite olja. Dra över salt och peppar.",
+      "Skär bort kanterna på brödet och tärna det. Stek i lite olja i en stekpanna tills gyllenbruna.",
+      "Skölj romansallad och spenat och riv i mindre bitar. Skär quornfiléerna i skivor.",
+      "Lägg upp salladsbladen på ett stort fat. Toppa med filéer, krutonger och dressing."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Quornpasta med rucola och valnötter",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "400 g glutenfri pasta, t.ex. spaghetti eller tagliatelle",
+          "300 g quornbitar",
+          "1 dl valnötter",
+          "80 g rucola",
+          "1 dl laktosfri crème fraiche",
+          "4 msk riven parmesanost",
+          "Smör eller olja",
+          "Salt och svartpeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka pastan enligt anvisning på paketet.",
+      "Fräs quornbitarna i smör eller olja i en stekpanna. Salta och peppra. Låt valnötterna fräsa med mot slutet.",
+      "Skölj rucolan. Rör ner crème fraiche, pasta, rucola och parmesan och toppa med nymalen svartpeppar."
     ]
   }
 ]

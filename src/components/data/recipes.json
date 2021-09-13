@@ -649,7 +649,6 @@
           "½ kruka oregano",
           "2 msk lökfri grönsaksfond",
           "1 dl vatten",
-          "2 msk lökfri grönsaksfond",
           "1 gul paprika",
           "250 g halloumi/grillost",
           "Salt och svartpeppar"
@@ -725,6 +724,33 @@
       "Koka pastan enligt anvisning på paketet.",
       "Fräs quornbitarna i smör eller olja i en stekpanna. Salta och peppra. Låt valnötterna fräsa med mot slutet.",
       "Skölj rucolan. Rör ner crème fraiche, pasta, rucola och parmesan och toppa med nymalen svartpeppar."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Potatissoppa med citron och timjan",
+    "cookingTime": "35 min",
+    "servings": "6 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "1 kg potatis av fast eller halvfast typ, t.ex. Bintje eller Amandine",
+          "1 knippe salladslök (gröna delen)",
+          "4 msk smör",
+          "5 dl laktosfri grädde",
+          "1 l lökfri grönsaksbuljong",
+          "2 msk färska timjanblad (eller 1,5 tsk torkad)",
+          "1 citron",
+          "Salt och svartpeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Skala och tärna potatisen i sockerbitsstora bitar. Strimla den gröna delen på salladslöken. Smält smöret i en gryta och fräs löken mjuk på låg värme. Tillsätt potatisen och vänd runt bitarna i smöret.",
+      "Häll på grädden, låt alltsammans koka upp och sjud sakta under lock i 12-15 minuter eller tills potatisen är mjuk (men inte sönderkokt). Rör om ofta så att det inte bränns vid.",
+      "Koka upp grönsaksbuljongen eller gör den på vatten från vattenkokaren och koncentrat.",
+      "Rör ner timjan i soppan. Rör ner den heta buljongen. Finriv citronskalet precis före servering. Pressa saften från citronen. Smaka av med finrivet citronskal, citronsaft, salt och peppar."
     ]
   }
 ]

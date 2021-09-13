@@ -1,0 +1,44 @@
+{
+    "title": "Ugnsbakad rotselleri med champinjonkräm",
+    "cookingTime": "90 min",
+    "servings": "4",
+    "ingredients": [
+        {
+            "subTitle": "Bakad rotselleri",
+            "subIngredients": [
+                "1 medelstor rotselleri, ca 900 g",
+                "50 gram smör"
+            ]
+        },
+        {
+            "subTitle": "Champinjonkräm",
+            "subIngredients": [
+                "1 burk konserverade champinjoner à 250 g",
+                "2 dl gröna linser",
+                "4 msk crème fraiche",
+                "1 msk japansk soja",
+                "1 tsk citronsaft",
+                "1 msk smör",
+                "salt och svartpeppar"
+            ]
+        },
+        {
+            "subTitle": "Tillbehör",
+            "subIngredients": [
+                "70 g färsk babyspenat",
+                "1 citron",
+                "1 dl rostade pinjenötter",
+                "2 dl parmesan",
+                "bredbladig persilja"
+            ]
+        }
+    ],
+    "instructions": [
+        "Skrubba rotsellerin och skala bort det grövsta skalen eller allt skal om du föredrar det.",
+        "Dela rotsellerin på mitten och placera på en plåt med den skurna sidan neråt.",
+        "Fördela smöret med fingrarna eller hyvla tunt och lägg på rotsellerin. Rosta i ca 1,5 timme i 175 grader. Ös/pensla gärna på lite av det smälta smöret ett par gånger under tiden.",
+        "Häll av spadet från champinjonerna och stek dem i lite smör gärna i ca 10 minuter så de får lite stekyta. Salta och peppra under tiden. Droppa gärna lite lökolja på svampen.",
+        "Skölj av linserna. Mixa sedan linser, svampen och créme fraiche slätt. Smaka av med soja, vitlöksolja, citronsaft, salt och peppar.",
+        "Lägg en stor klick svampkräm i botten av en tallrik. Strö över spenatblad. Toppa med några skivor rotselleri, citron, pinjenötter, riven parmesan och lite bladpersilja."
+    ]
+}

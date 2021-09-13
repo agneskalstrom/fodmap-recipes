@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "Ugnsbakad rotselleri med champinjonkräm",
+    "cookingTime": "90 min",
+    "servings": "4 pers",
+    "ingredients": [
+      {
+        "subTitle": "Bakad rotselleri",
+        "subIngredients": [
+          "1 medelstor rotselleri, ca 900 g", 
+          "50 gram smör"
+        ]
+      },
+      {
+        "subTitle": "Champinjonkräm",
+        "subIngredients": [
+          "1 burk konserverade champinjoner à 250 g",
+          "2 dl gröna linser",
+          "4 msk crème fraiche",
+          "1 msk japansk soja",
+          "1 tsk citronsaft",
+          "1 msk smör",
+          "salt och svartpeppar"
+        ]
+      },
+      {
+        "subTitle": "Tillbehör",
+        "subIngredients": [
+          "70 g färsk babyspenat",
+          "1 citron",
+          "1 dl rostade pinjenötter",
+          "2 dl parmesan",
+          "bredbladig persilja"
+        ]
+      }
+    ],
+    "instructions": [
+      "Skrubba rotsellerin och skala bort det grövsta skalen eller allt skal om du föredrar det.",
+      "Dela rotsellerin på mitten och placera på en plåt med den skurna sidan neråt.",
+      "Fördela smöret med fingrarna eller hyvla tunt och lägg på rotsellerin. Rosta i ca 1,5 timme i 175 grader. Ös/pensla gärna på lite av det smälta smöret ett par gånger under tiden.",
+      "Häll av spadet från champinjonerna och stek dem i lite smör gärna i ca 10 minuter så de får lite stekyta. Salta och peppra under tiden. Droppa gärna lite lökolja på svampen.",
+      "Skölj av linserna. Mixa sedan linser, svampen och créme fraiche slätt. Smaka av med soja, vitlöksolja, citronsaft, salt och peppar.",
+      "Lägg en stor klick svampkräm i botten av en tallrik. Strö över spenatblad. Toppa med några skivor rotselleri, citron, pinjenötter, riven parmesan och lite bladpersilja."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Matig sallad",
+    "cookingTime": "30-40 min",
+    "servings": "4 pers",
+    "ingredients": [
+      {
+        "subTitle": "Sallad",
+        "subIngredients": [
+          "2-3 dl quinoa", 
+          "2-3 dl linser",
+          "500 g palsternacka",
+          "500 g morot",
+          "500 g rotselleri",
+          "1 paprika",
+          "0,5 aubergine eller squash",
+          "1 dl hackade kryddörter",
+          "2-3 salladslökar, gröna delen",
+          "Salt och peppar"
+        ]
+      },
+      {
+        "subTitle": "Dressing",
+        "subIngredients": [
+          "2-3 msk balsamico",
+          "2 msk olivolja"
+        ]
+      },
+      {
+        "subTitle": "Tillbehör",
+        "subIngredients": [
+          "Fetaost",
+          "1 grillost/halloumi eller quornfiléer"
+        ]
+      }
+    ],
+    "instructions": [
+      "Sätt ugnen på 220 grader.",
+      "Skala och skär rotfrukterna i lagom munsbitar. Lägg på bakplåt, blanda med lite olivolja, salt och peppar och rosta i ugnen i ca 20 min.",
+      "Fräs strimlad paprika och aubergine/squash i stekpannan med lite olivolja.",
+      "Stek på grillost eller quornfiléer",
+      "Blanda alla ingredienserna till salladen och blanda ihop dressing + kryddor. Smula över fetaost."
+    ]
+  }
+]

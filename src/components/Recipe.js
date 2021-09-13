@@ -9,7 +9,7 @@ const Recipe = () => {
   function getRecipe() {
     randomRecipe = Recipes[Math.floor(Math.random() * Recipes.length)];
     setRecipe(randomRecipe);
-    console.log(randomRecipe);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   return (

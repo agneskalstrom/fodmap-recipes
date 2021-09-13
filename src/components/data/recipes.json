@@ -61,7 +61,7 @@
   {
     "id": 2,
     "title": "Ratatouille med ris och stekt halloumi",
-    "cookingTime": "?",
+    "cookingTime": "60 min",
     "servings": "4 portioner",
     "ingredients": [
       {
@@ -95,7 +95,7 @@
   {
     "id": 3,
     "title": "Tofuwok med grön curry",
-    "cookingTime": "?",
+    "cookingTime": "45 min",
     "servings": "4 portioner",
     "ingredients": [
       {
@@ -175,7 +175,7 @@
   {
     "id": 5,
     "title": "Butter curry med kikärtor",
-    "cookingTime": "?",
+    "cookingTime": "30 min",
     "servings": "4 portioner",
     "ingredients": [
       {
@@ -247,7 +247,7 @@
   },
   {
     "id": 7,
-    "title": "Krämig brysselkålspasta",
+    "title": "Krämig grönkålspasta",
     "cookingTime": "30 min",
     "servings": "4 portioner",
     "ingredients": [
@@ -256,7 +256,7 @@
         "subIngredients": [
           "400 g glutenfri pasta",
           "2 salladslökar (gröna delen)",
-          "250 g brysselkål",
+          "250 g grönkål",
           "1 tsk torkad ramslök",
           "2 msk olivolja",
           "3 dl laktosfri grädde eller crème fraiche",
@@ -268,9 +268,9 @@
       }
     ],
     "instructions": [
-      "Koka pastan enligt anvisning på paketet. Finhacka salladslöken. Tina brysselkålen och halvera dem. Fräs salladslök och ramslök i olivolja några minuter i en stekpanna. Tillsätt brysselkålen och fräs ca 3 minuter. Häll på grädde eller crème fraiche och låt koka ihop.",
+      "Koka pastan enligt anvisning på paketet. Finhacka salladslöken. Strimla grönkålen (ta bort den hårda stjälken i mitten). Fräs salladslök och ramslök i olivolja några minuter i en stekpanna. Tillsätt kålen och fräs ca 3 minuter. Häll på grädde eller crème fraiche och låt koka ihop.",
       "Rosta pinjenötterna i en torr stekpanna.",
-      "Häll av vattnet från pastan. Blanda pastan med brysselkål- blandningen, riven parmesan, citronskal och citronsaft. Smaka av med salt och svartpeppar.",
+      "Häll av vattnet från pastan. Blanda pastan med kålblandningen, riven parmesan, citronskal och citronsaft. Smaka av med salt och svartpeppar.",
       "Garnera med pinjenötter, citronskal och hyvlad parmesan."
     ]
   },

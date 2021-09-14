@@ -474,15 +474,15 @@
         "subTitle": "",
         "subIngredients": [
           "4 port ris",
-          "½ purjolök (gröna delen)",
+          "½ purjolök eller 2 salladslökar (gröna delen)",
           "1 morot",
           "250 g halloumi/grillost",
           "2 msk tomatpuré",
           "0,5 tsk vitlöksolja",
           "1 burk krossade tomater",
+          "4 soltorkade tomater",
           "1 dl laktosfri grädde",
           "1 pkt röda linser (på tetra)",
-          "½ citron",
           "Olivolja",
           "Tomatpuré",
           "Senap"
@@ -490,9 +490,9 @@
       }
     ],
     "instructions": [
-      "Koka riset enligt anvisning på förpackningen. Skölj och finhacka purjolöken. Riv moroten och skär halloumin i mindre bitar. Stek halloumin gyllenbrun i torr panna och lägg åt sidan.",
-      "Fräs purjolök i olivolja. Rör ner tomatpuré och tillsätt sedan morötter och vitlöksolja. Stek tills morötterna mjuknat lite. Häll ner krossade tomater och grädde och koka upp. Blanda i linser, en klick senap och låt puttra ca 3 minuter.",
-      "Lägg i halloumi och smaka av med salt, peppar och pressad citron. Servera med riset."
+      "Koka riset enligt anvisning på förpackningen. Skölj och finhacka löken. Riv moroten, hacka tomaterna och skär halloumin i mindre bitar. Stek halloumin gyllenbrun i torr panna och lägg åt sidan.",
+      "Fräs lök i olivolja. Rör ner tomatpuré och tillsätt sedan morötter och vitlöksolja. Stek tills morötterna mjuknat lite. Häll ner krossade tomater och grädde och koka upp. Blanda i linser, en klick senap och soltorkade tomater och låt puttra ca 3 minuter.",
+      "Lägg i halloumi och smaka av med salt, peppar och eventuellt lite pressad citron. Servera med riset."
     ]
   },
   {
@@ -664,39 +664,53 @@
   },
   {
     "id": 20,
-    "title": "Vegetarisk ceasarsallad",
-    "cookingTime": "30 min",
+    "title": "Vegetarisk caesarsallad",
+    "cookingTime": "40 min",
     "servings": "4 portioner",
     "ingredients": [
       {
         "subTitle": "Sallad",
         "subIngredients": [
           "4 quornfiléer",
-          "4 skivor glutenfritt bröd",
-          "1 huvud romansallat",
-          "70 g babyspenat",
+          "0,5 tsk torkad dragon",
+          "0,5 tsk torkad timjan",
+          "0,5 tsk torkad rosmarin",
+          "0,5 tsk torkad oregano",
+          "0,5 tsk paprikapulver",
+          "1 romansallad",
+          "½ påse blandsallad",
+          "16 romanticatomater",
           "Salt och svartpeppar",
-          "Olja"
+          "Olivolja",
+          "Rapsolja"
         ]
       },
       {
         "subTitle": "Dressing",
         "subIngredients": [
-          "1 ägg",
-          "0,5 dl riven parmesanost",
-          "1 msk vitvinsvinäger",
-          "1 tsk dijonsenap",
-          "1 dl olivolja",
+          "2 dl riven parmesanost",
+          "2,5 dl laktosfri crème fraiche",
+          "1 tsk vitlöksolja",
+          "3 msk olivolja",
+          "1 msk citronsaft",
           "Salt och svartpeppar"
+        ]
+      },
+      {
+        "subTitle": "Krutonger",
+        "subIngredients": [
+          "4 skivor glutenfritt formbröd",
+          "Olivolja",
+          "Flingsalt"
         ]
       }
     ],
     "instructions": [
-      "Börja med dressingen: Koka ägget 2–3 minuter. Skala det och lägg tillsammans med parmesan, vinäger och senap i en skål. Mixa dressingen slät med en stavmixer. Tillsätt oljan, först droppvis och därefter i en tunn stråle, och smaka av med salt och peppar.",
-      "Stek quornfiléerna i lite olja. Dra över salt och peppar.",
-      "Skär bort kanterna på brödet och tärna det. Stek i lite olja i en stekpanna tills gyllenbruna.",
-      "Skölj romansallad och spenat och riv i mindre bitar. Skär quornfiléerna i skivor.",
-      "Lägg upp salladsbladen på ett stort fat. Toppa med filéer, krutonger och dressing."
+      "Blanda alla torkade örter med paprikapulver, salt och peppar. Krydda quornfiléerna med örtblandningen. Stek i rapsolja tills de fått fin färg. Skär sedan i skivor.",
+      "Skär brödskivorna i lagom stora kuber och lägg på en plåt med bakplåtspapper. Ringla över olja och strö över flingsalt. Rör om. Kör i ugnen tills de har blivit så krispiga du vill ha dem.",
+      "Blanda alla ingredienser till dressingen, smaka av med salt och peppar.",
+      "Blanda romansallad, blandsallad, tomater och olivolja i en stor skål. Blanda ner quorn. Rör ner hälften av dressingen och rör om tills den har fördelats jämnt i salladen.",
+      "Lägg upp salladen på ett serveringsfat. Klicka ut resten av dressingen på salladen och strö över krutongerna. Toppa med skivor av parmesanost."
     ]
   },
   {
@@ -750,6 +764,96 @@
       "Häll på grädden, låt alltsammans koka upp och sjud sakta under lock i 12-15 minuter eller tills potatisen är mjuk (men inte sönderkokt). Rör om ofta så att det inte bränns vid.",
       "Koka upp grönsaksbuljongen eller gör den på vatten från vattenkokaren och koncentrat.",
       "Rör ner timjan i soppan. Rör ner den heta buljongen. Finriv citronskalet precis före servering. Pressa saften från citronen. Smaka av med finrivet citronskal, citronsaft, salt och peppar."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Dragonquornfiléer",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "312 g quornfiléer",
+          "4 dl laktosfri matlagningsgrädde",
+          "2 msk lökfri grönsaksfond",
+          "2 msk dijonsenap",
+          "2 msk torkad dragon",
+          "4 port ris",
+          "Smör",
+          "Salt och svartpeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Skär varje filé i 3 bitar på längden. Bryn i smör, salta och peppra.",
+      "Ta ur filéerna ur pannan, häll på grädde, fond, dijonsenap och torkad dragon. Rör om och lägg ner de stekta filéerna, låt småputtra i några minuter.",
+      "Servera med ris och gärna en god sallad."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Italiensk quornpasta",
+    "cookingTime": "30 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "400 g glutenfri pasta, t.ex. spaghetti",
+          "Quornfiléer eller bitar",
+          "2 msk vitlöksolja",
+          "70 g färsk bladspenat",
+          "50 g soltorkade tomater",
+          "2,5 dl laktosfri matlagningsgrädde",
+          "Salt och svartpeppar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka pastan enligt anvisning på paketet.",
+      "Skär filéerna i lagom stora bitar och bryn dem i 1 msk vitlöksolja, ta upp och lägg på en tallrik.",
+      "Skölj spenaten och strimla de torkade tomaterna. Stek spenat och torkade tomater i 1 msk vitlöksolja. Lägg i quorn och tillsätt grädden,låt koka ihop några minuter. Smaka av med salt och peppar.",
+      "Servera såsen till den nykokta pastan."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Vegetarisk korma",
+    "cookingTime": "40 min",
+    "servings": "4 portioner",
+    "ingredients": [
+      {
+        "subTitle": "",
+        "subIngredients": [
+          "4 port jasminris",
+          "4 port quornfilé",
+          "0,5 dl rapsolja",
+          "1 tsk kanel",
+          "2 tsk gurkmeja",
+          "2 tsk spiskummin",
+          "2 tsk kardemumma",
+          "1 tsk cayennepeppar",
+          "3 salladslökar (gröna delen)",
+          "1 dl ingefära (färsk riven eller 1-2 msk mald)",
+          "1 dl mandelflagor",
+          "2 dl laktosfri matlagningsyoghurt",
+          "1 dl laktosfri grädde",
+          "2 dl kokosmjölk",
+          "2 msk lökfri grönsaksfond",
+          "3 msk citronsaft",
+          "1 msk socker",
+          "1 tsk salt",
+          "Smör"
+        ]
+      }
+    ],
+    "instructions": [
+      "Koka riset enligt anvisning på förpackningen.",
+      "Skär filéerna i bitar, ca 3 x 3 cm. Bryn dem runt om i lite smör i en stekpanna.",
+      "Häll oljan i en gryta och häll i alla torra kryddor, låt dem fräsa en stund. Finhacka salladslöken och riv ingefäran. Tillsätt detta i grytan tillsammans med mandel, yoghurt, grädde, kokosmjölk, fond, citronsaft och socker.",
+      "Lägg i filébitarna. Låt koka en stund på medelvärme. Smaka av med salt och späd ev med mer kokosmjölk och grädde om det blir för tjockt eller kryddstarkt. Servera med riset."
     ]
   }
 ]

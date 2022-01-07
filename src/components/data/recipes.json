@@ -4,7 +4,7 @@
     "title": "Tacopaj med quorn",
     "cookingTime": "90 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/tacopaj.jpg",
     "ingredients": [
       {
         "subTitle": "Pajdeg",
@@ -62,7 +62,7 @@
     "title": "Ratatouille med ris och stekt halloumi",
     "cookingTime": "60 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/ratatouille.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -88,7 +88,7 @@
     ],
     "instructions": [
       "Skär zucchinin i ca 1 cm tjocka halvmånar. Skala och skär palsternackan i halvmånar. Kärna ur paprikorna och skär dem i grova strimlor. Skölj och strimla den gröna delen av purjolöken grovt.",
-      "Fräs grönsakerna med lagerblad och olja i en gryta. Häll på hela tomater, oregano, timjan, basilika, rosmarin och ramslök. Om det känns för torrt, tillsätt lite vatten. Rör om och låt puttra under lock på svag värme ca 40 minuter..",
+      "Fräs grönsakerna med lagerblad och olja i en gryta. Häll på hela tomater, oregano, timjan, basilika, rosmarin och ramslök. Om det känns för torrt, tillsätt lite vatten. Rör om och låt puttra under lock på svag värme ca 40 minuter.",
       "Skiva halloumin och stek den gyllenbrun i en torr stekpanna. Smaka av ratatouillen med citronsaft, salt och peppar. Servera med halloumi och ris."
     ]
   },
@@ -97,7 +97,7 @@
     "title": "Tofuwok med grön curry",
     "cookingTime": "45 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/tofuwok.jpg",
     "ingredients": [
       {
         "subTitle": "Currypasta",
@@ -146,7 +146,7 @@
     "title": "Aubergine- och linscurry",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/auberginecurry.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -617,7 +617,7 @@
     "title": "Tomatsoppa med mozarella",
     "cookingTime": "50 min",
     "servings": "4 portioner",
-    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/tomatsoppa.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/tomatsoppamozarella.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -650,7 +650,7 @@
     "title": "Tomatris med halloumi",
     "cookingTime": "40 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/tomatris.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -760,7 +760,7 @@
     "title": "Potatissoppa med citron och timjan",
     "cookingTime": "35 min",
     "servings": "6 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/potatissoppa.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -815,7 +815,7 @@
     "title": "Italiensk quornpasta",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/italienskquornpasta.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -842,7 +842,7 @@
     "title": "Vegetarisk korma",
     "cookingTime": "40 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/korma.jpg",
     "ingredients": [
       {
         "subTitle": "",

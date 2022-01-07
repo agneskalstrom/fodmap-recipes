@@ -15,10 +15,10 @@ const Recipe = () => {
   }
 
   return (
-    <main>
+    <section>
       <div className="app-wrapper" key={recipe.id}>
         <div className="image">
-          <img src={recipe.img} alt="Recipe dish" />
+          <img src={recipe.img} alt={recipe.title} />
         </div>
         <div className="recipe-container">
           <h2>{recipe.title}</h2>
@@ -58,7 +58,7 @@ const Recipe = () => {
         </div>
         </div>
       </div>
-    </main>
+    </section>
   );
 };
 

@@ -116,7 +116,7 @@ ol {
 }
 
 .info-row {
-    opacity: .6;
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .info-row img {

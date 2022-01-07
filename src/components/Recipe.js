@@ -53,9 +53,9 @@ const Recipe = () => {
               ))}
             </ol>
           </div>
+          <div className="recipe-button">
+            <button onClick={getRecipe}>Slumpa recept</button>
         </div>
-        <div className="recipe-button">
-          <button onClick={getRecipe}>Slumpa recept</button>
         </div>
       </div>
     </main>

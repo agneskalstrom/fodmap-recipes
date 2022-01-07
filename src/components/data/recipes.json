@@ -480,7 +480,7 @@
     "title": "Halloumi stroganoff med ris",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/stroganoff.jpg",
     "ingredients": [
       {
         "subTitle": "",

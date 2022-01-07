@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import Recipes from "./data/recipes.json";
+import cutlery from "../images/cutlery.svg";
+import timer from "../images/timer.svg";
 
 const Recipe = () => {
   const firstRecipe = Recipes[Math.floor(Math.random() * Recipes.length)];
@@ -9,38 +11,53 @@ const Recipe = () => {
   function getRecipe() {
     randomRecipe = Recipes[Math.floor(Math.random() * Recipes.length)];
     setRecipe(randomRecipe);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   return (
     <main>
-      <div className="recipe-display" key={recipe.id}>
-        <h2>{recipe.title}</h2>
-        <div className="info">
-          <p>🍴 {recipe.servings}</p>
-          <p>🕑 {recipe.cookingTime}</p>
+      <div className="app-wrapper" key={recipe.id}>
+        <div className="image">
+          <img src={recipe.img} alt="Recipe dish" />
         </div>
-        <h3>Ingredienser:</h3>
-        {recipe.ingredients.map((ingredients) => {
-          return (
-            <div className="ingredients">
-              <h4>{ingredients.subTitle}</h4>
-              <ul>
-                {ingredients.subIngredients.map((ingredient) => (
-                  <li>{ingredient}</li>
-                ))}
-              </ul>
-            </div>
-          );
-        })}
-        <h3>Gör så här:</h3>
-        <ul>
-          {recipe.instructions.map((instruction) => (
-            <li className="instructions-list">{instruction}</li>
-          ))}
-        </ul>
+        <div className="recipe-container">
+          <h2>{recipe.title}</h2>
+          <div className="info">
+            <span className="info-row">
+              <img src={cutlery} alt="Icon with cutlery" /> <span>{recipe.servings}</span>
+            </span>
+            <span className="info-row">
+              <img src={timer} alt="Icon with timer" /> <span>{recipe.cookingTime}</span>
+            </span>
+          </div>
+          <div className="ingredients">
+            <h3>Ingredienser</h3>
+            {recipe.ingredients.map((ingredients) => {
+              return (
+                <>
+                  <h4 className="sub-ingredients">{ingredients.subTitle}</h4>
+                  <ul className="ingredients-list">
+                    {ingredients.subIngredients.map((ingredient) => (
+                      <li>{ingredient}</li>
+                    ))}
+                  </ul>
+                </>
+              );
+            })}
+          </div>
+          <div className="instructions">
+            <h3>Gör så här</h3>
+            <ol className="instructions-list">
+              {recipe.instructions.map((instruction) => (
+                <li>{instruction}</li>
+              ))}
+            </ol>
+          </div>
+        </div>
+        <div className="recipe-button">
+          <button onClick={getRecipe}>Slumpa recept</button>
+        </div>
       </div>
-      <button onClick={getRecipe}>Slumpa recept</button>
     </main>
   );
 };

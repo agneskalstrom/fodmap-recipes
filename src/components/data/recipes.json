@@ -4,11 +4,12 @@
     "title": "Tacopaj med quorn",
     "cookingTime": "90 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "Pajdeg",
         "subIngredients": [
-          "3 dl glutenfri mjölmix eller siktat dinkelmjöl", 
+          "3 dl glutenfri mjölmix eller siktat dinkelmjöl",
           "1 krm salt",
           "75 g smör",
           "1 dl laktosfri kvarg",
@@ -44,9 +45,7 @@
       },
       {
         "subTitle": "Tillbehör",
-        "subIngredients": [
-          "1 påse tortillachips"
-        ]
+        "subIngredients": ["1 påse tortillachips"]
       }
     ],
     "instructions": [
@@ -63,11 +62,12 @@
     "title": "Ratatouille med ris och stekt halloumi",
     "cookingTime": "60 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
         "subIngredients": [
-          "1 stor zucchini", 
+          "1 stor zucchini",
           "1 palsternacka",
           "1 röd paprika",
           "1 grön paprika",
@@ -97,6 +97,7 @@
     "title": "Tofuwok med grön curry",
     "cookingTime": "45 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "Currypasta",
@@ -145,11 +146,12 @@
     "title": "Aubergine- och linscurry",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
         "subIngredients": [
-          "2 salladslökar (gröna delen)", 
+          "2 salladslökar (gröna delen)",
           "1 stor aubergine",
           "2 morötter",
           "2 tsk curry",
@@ -177,11 +179,12 @@
     "title": "Butter curry med kikärtor",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
         "subIngredients": [
-          "3 salladslökar (gröna delen)", 
+          "3 salladslökar (gröna delen)",
           "6 cm ingefära",
           "1 tsk torkad ramslök",
           "1 tsk vitlöksolja",
@@ -220,6 +223,7 @@
     "title": "Citronrisotto",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -249,6 +253,7 @@
     "title": "Krämig grönkålspasta",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -278,6 +283,7 @@
     "title": "Quornfärssås med spaghetti",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -314,6 +320,7 @@
     "title": "Pasta med hett salviasmör",
     "cookingTime": "20 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -338,6 +345,7 @@
     "title": "Vegetarisk lasagne",
     "cookingTime": "45 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -369,6 +377,7 @@
     "title": "Linssoppa med ajvar",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -401,6 +410,7 @@
     "title": "Palak Paneer med tofu",
     "cookingTime": "50 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -439,6 +449,7 @@
     "title": "Marinerad tofu med stekta nudlar",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -469,6 +480,7 @@
     "title": "Halloumi stroganoff med ris",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -500,6 +512,7 @@
     "title": "Spaghetti med fetaost och oliver",
     "cookingTime": "20 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -526,6 +539,7 @@
     "title": "Tomat- och paprikasoppa med krispig fetaost",
     "cookingTime": "45 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "Soppa",
@@ -533,11 +547,13 @@
           "2 röda paprikor",
           "2 morötter",
           "2 palsternackor",
+          "2 salladslökar (gröna delen)",
           "1 msk rapsolja",
           "3 msk lökfri grönsaksfond",
           "1 burk krossade tomater",
           "1 msk vitlöksolja",
           "2 tsk paprikapulver",
+          "1 l vatten",
           "Salt och peppar"
         ]
       },
@@ -551,9 +567,7 @@
       },
       {
         "subTitle": "Till servering",
-        "subIngredients": [
-          "Färsk basilika"
-        ]
+        "subIngredients": ["Färsk basilika"]
       }
     ],
     "instructions": [
@@ -562,7 +576,7 @@
       "Smula fetaosten grovt och droppa över lite olja och rulla smulorna i panko. Lägg fetaosten på en plåt med bakplåtspapper.",
       "När grönsakerna är klara, lägg dem i en kastrull. Ställ in plåten med fetaost i ugnen i 8-10 min.",
       "Häll hälften av vattnet, fond och krossade tomater i kastrullen med grönsaker. Mixa slätt med en stavmixer. Värm soppan på medelvärme, häll på resten av vattnet och smaksätt med vitlöksolja, paprikapulver, salt och peppar.",
-      "Strö över fetaosten och garnera med färsk basilika."
+      "Servera med fetaosten, strimlad salladslök och färsk basilika."
     ]
   },
   {
@@ -570,6 +584,7 @@
     "title": "Gnocchi med tomat och mozzarella",
     "cookingTime": "45 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -586,10 +601,7 @@
       },
       {
         "subTitle": "Till servering",
-        "subIngredients": [
-          "0,5 dl riven parmesan",
-          "Färsk basilika"
-        ]
+        "subIngredients": ["0,5 dl riven parmesan", "Färsk basilika"]
       }
     ],
     "instructions": [
@@ -605,6 +617,7 @@
     "title": "Tomatsoppa med mozarella",
     "cookingTime": "50 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -637,6 +650,7 @@
     "title": "Tomatris med halloumi",
     "cookingTime": "40 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -667,6 +681,7 @@
     "title": "Vegetarisk caesarsallad",
     "cookingTime": "40 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "Sallad",
@@ -718,6 +733,7 @@
     "title": "Quornpasta med rucola och valnötter",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -744,6 +760,7 @@
     "title": "Potatissoppa med citron och timjan",
     "cookingTime": "35 min",
     "servings": "6 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -771,6 +788,7 @@
     "title": "Dragonquornfiléer",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -797,6 +815,7 @@
     "title": "Italiensk quornpasta",
     "cookingTime": "30 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -823,6 +842,7 @@
     "title": "Vegetarisk korma",
     "cookingTime": "40 min",
     "servings": "4 portioner",
+    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
     "ingredients": [
       {
         "subTitle": "",

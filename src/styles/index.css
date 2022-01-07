@@ -3,6 +3,7 @@
 html {
     box-sizing: border-box;
     font-size: 16px;
+    background-color: #F9F7F7;
 }
   
 *, *:before, *:after {
@@ -12,86 +13,108 @@ html {
 body, h2, h3, h4, h5, h6, p, ol, ul {
     margin: 0;
     padding: 0;
-    font-weight: normal;
     font-family: 'Poppins', sans-serif;
-    color: #222;
+    color: #000;
 }
-  
+
 img {
-    max-width: 100%;
-    height: auto;
+    width: 100%;
 }
 
-header {
-    background: linear-gradient(45deg, rgba(255,95,109,1) 0%, rgba(255,195,113,1) 100%);
-    text-align: center;
-    padding: 2em;
-    color: #fff;
-    /*margin: 1em 1em 2em 1em;
-    border-radius: 1em;*/
+.app-wrapper {
+    width: 100%;
 }
 
-h1 {
-    font-weight: bold;
-    font-size: 2.5em;
-    line-height: 1;
+.recipe-container {
+    width: 100vw;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 70px;
+    padding-bottom: 200px;
+    border-radius: 50px 50px 0 0;
+    margin-top: -50px;
+    background: #F9F7F7;
+    position: absolute;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
+
+.recipe-button {
+    padding: 50px;
+    width: 100vw;
+    bottom: 0;
+    position: fixed;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #F9F7F7 34.26%);
 }
 
 button {
-    background-color: rgba(255,95,109,1);
+    background-color: black;
     border: 0;
-    border-radius: 1em;
     padding: 1em 1.5em 1em;
-    color: #fff;
-    font-size: 1em;
-    font-weight: bold;
+    color: #F9F7F7;
+    font-size: 18px;
     text-transform: uppercase;
-    margin-top: 2em;
+    width: 100%;
+    transition: .2s;
 }
 
 button:hover {
-    background-color:  rgb(252, 68, 83);
+    opacity: .9;
 }
 
-main {
-    display: flex;
-    flex-direction: column;
-    margin: 2em 1em 2em 1em;
+p {
+    line-height: 24px;
 }
 
 h2 {
-    font-weight: bold;
-    font-size: 2em;
-    color: rgba(255,95,109,1);
-    line-height: 1.2;
+    font-weight: 900;
+    font-size: 21px;
+    line-height: 25px;
 }
 
 h3 {
     font-weight: bold;
-    font-size: 1.4em;
-    margin-bottom: .5em;
+    font-size: 18px;
 }
 
 h4 {
-    text-decoration: underline;
-    font-size: 1.1em;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.ingredients {
+    margin-top: 30px;
+}
+
+.instructions {
+    margin-top: 40px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 ul {
-    margin-left: 2em;
-    margin-bottom: 1em;
-}
-.info {
-    margin-top: .5em;
-    margin-bottom: .5em;
-    display: flex;
-    width: 100%;
-    gap: 1em;
+    list-style: none;
 }
 
-.info p {
-    color: #6f6f6f;
-    font-size: .8em;
+ol {
+    padding-top: 10px;
+    margin-left: 15px;
+}
+
+.info {
+    display: flex;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    grid-gap: 45px;
+}
+
+.info-row {
+    opacity: 60%;
+}
+
+.info-row img {
+    width: 16px;
+    margin-right: 10px;
 }
 
 .instructions-list {
@@ -99,5 +122,15 @@ ul {
 }
 
 li {
-    padding-bottom: .2em;
+    padding-bottom: 12px;
+}
+
+img {
+    object-fit: cover;
+}
+
+@media screen and (min-width: 768px) {
+    main, .app-wrapper, .recipe-container, .recipe-button {
+        width: 768px;
+    }
 }

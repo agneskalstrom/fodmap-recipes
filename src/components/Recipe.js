@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Recipes from "./data/recipes.json";
-import cutlery from "../images/cutlery.svg";
-import timer from "../images/timer.svg";
+import cutlery from "../images/assets/cutlery.svg";
+import timer from "../images/assets/timer.svg";
 
 const Recipe = () => {
   const firstRecipe = Recipes[Math.floor(Math.random() * Recipes.length)];

@@ -4,7 +4,7 @@
     "title": "Tacopaj med quorn",
     "cookingTime": "90 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "Pajdeg",
@@ -62,7 +62,7 @@
     "title": "Ratatouille med ris och stekt halloumi",
     "cookingTime": "60 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "",
@@ -97,7 +97,7 @@
     "title": "Tofuwok med grön curry",
     "cookingTime": "45 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "Currypasta",
@@ -146,7 +146,7 @@
     "title": "Aubergine- och linscurry",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "",
@@ -159,7 +159,7 @@
           "2 tsk gurkmeja",
           "1 burk kokosmjölk à 400 ml",
           "1 burk krossade tomater à 500 g",
-          "1-2 msk lökfri grönsaksfont",
+          "1-2 msk lökfri grönsaksfond",
           "1 dl vatten",
           "2 dl gröna linser (på tetra)",
           "Olivolja",
@@ -179,7 +179,7 @@
     "title": "Butter curry med kikärtor",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/buttercurry.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -223,7 +223,7 @@
     "title": "Citronrisotto",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/risotto.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -253,7 +253,7 @@
     "title": "Krämig grönkålspasta",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/kalpasta.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -283,7 +283,7 @@
     "title": "Quornfärssås med spaghetti",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/spagbol.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -320,7 +320,7 @@
     "title": "Pasta med hett salviasmör",
     "cookingTime": "20 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/salviapasta.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -345,7 +345,7 @@
     "title": "Vegetarisk lasagne",
     "cookingTime": "45 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/lasagne.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -377,7 +377,7 @@
     "title": "Linssoppa med ajvar",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/ajvarsoppa.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -410,7 +410,7 @@
     "title": "Palak Paneer med tofu",
     "cookingTime": "50 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/palakpaneer.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -449,7 +449,7 @@
     "title": "Marinerad tofu med stekta nudlar",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/tofunudlar.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -480,7 +480,7 @@
     "title": "Halloumi stroganoff med ris",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "",
@@ -512,7 +512,7 @@
     "title": "Spaghetti med fetaost och oliver",
     "cookingTime": "20 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/spaghetti.jpeg",
     "ingredients": [
       {
         "subTitle": "",
@@ -539,7 +539,7 @@
     "title": "Tomat- och paprikasoppa med krispig fetaost",
     "cookingTime": "45 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/tomatsoppa.jpg",
     "ingredients": [
       {
         "subTitle": "Soppa",
@@ -584,7 +584,7 @@
     "title": "Gnocchi med tomat och mozzarella",
     "cookingTime": "45 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/gnocchitomatmozarella.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -617,7 +617,7 @@
     "title": "Tomatsoppa med mozarella",
     "cookingTime": "50 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/tomatsoppa.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -650,7 +650,7 @@
     "title": "Tomatris med halloumi",
     "cookingTime": "40 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "",
@@ -681,7 +681,7 @@
     "title": "Vegetarisk caesarsallad",
     "cookingTime": "40 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/ceasarsallad.jpg",
     "ingredients": [
       {
         "subTitle": "Sallad",
@@ -733,7 +733,7 @@
     "title": "Quornpasta med rucola och valnötter",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/kalpasta.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -760,7 +760,7 @@
     "title": "Potatissoppa med citron och timjan",
     "cookingTime": "35 min",
     "servings": "6 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "",
@@ -788,7 +788,7 @@
     "title": "Dragonquornfiléer",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "",
@@ -815,7 +815,7 @@
     "title": "Italiensk quornpasta",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "",
@@ -842,7 +842,7 @@
     "title": "Vegetarisk korma",
     "cookingTime": "40 min",
     "servings": "4 portioner",
-    "img": "https://i.ibb.co/JC3pzjh/spaghetti.jpg",
+    "img": "",
     "ingredients": [
       {
         "subTitle": "",

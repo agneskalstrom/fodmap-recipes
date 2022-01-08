@@ -1,11 +1,12 @@
 {
   "short_name": "Vad ska vi äta?",
-  "name": "Vad ska vi äta? Fodmap-vänliga vegetariska recept.",
+  "name": "Vad ska vi äta?",
+  "description": "Fodmap-vänliga vegetariska recept.",
   "icons": [
     {
       "src": "logo64.png",
       "type": "image/png",
-      "sizes": "64x64 32x32 16x16 24x24 16x16"
+      "sizes": "64x64"
     },
     {
       "src": "logo192.png",

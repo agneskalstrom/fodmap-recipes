@@ -253,7 +253,7 @@
     "title": "Krämig grönkålspasta",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/kalpasta.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/gronkalspasta.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -522,7 +522,7 @@
           "150 g fetaost",
           "1 dl kalamataoliver",
           "½ citron",
-          "Ruccola",
+          "Rucola",
           "Olivolja",
           "Salt och peppar"
         ]
@@ -733,7 +733,7 @@
     "title": "Quornpasta med rucola och valnötter",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/kalpasta.jpg",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/pastavalnotter.jpg",
     "ingredients": [
       {
         "subTitle": "",
@@ -788,7 +788,7 @@
     "title": "Dragonquornfiléer",
     "cookingTime": "30 min",
     "servings": "4 portioner",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/agneskalstrom/fodmap-recipes/main/src/images/dragonquorn.jpg",
     "ingredients": [
       {
         "subTitle": "",

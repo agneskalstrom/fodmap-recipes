@@ -2,6 +2,7 @@
   "short_name": "Vad ska vi äta?",
   "name": "Vad ska vi äta?",
   "description": "Fodmap-vänliga vegetariska recept.",
+  
   "icons": [
     {
       "src": "logo64.png",
@@ -22,5 +23,6 @@
   "start_url": "/",
   "display": "fullscreen",
   "theme_color": "#000000",
-  "background_color": "#FFD80E"
+  "background_color": "#FFD80E",
+  "orientation": "portrait"
 }

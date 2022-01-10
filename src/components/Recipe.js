@@ -24,10 +24,10 @@ const Recipe = () => {
           <h2>{recipe.title}</h2>
           <div className="info">
             <span className="info-row">
-              <img src={cutlery} alt="Icon with cutlery" /> <span>{recipe.servings}</span>
+              <img src={cutlery} alt="Ikon föreställande bestick" /> <span>{recipe.servings}</span>
             </span>
             <span className="info-row">
-              <img src={timer} alt="Icon with timer" /> <span>{recipe.cookingTime}</span>
+              <img src={timer} alt="Ikon föreställande en timer" /> <span>{recipe.cookingTime}</span>
             </span>
           </div>
           <div className="ingredients">
